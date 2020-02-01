@@ -1,1 +1,1 @@
-# GCmaze
+# GCmazeGCMaze
